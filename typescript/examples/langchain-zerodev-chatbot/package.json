@@ -20,7 +20,7 @@
     "@langchain/openai": "^0.3.14",
     "@langchain/langgraph": "^0.2.21",
     "dotenv": "^16.4.5",
-    "zod": "^3.23.8",
+    "zod": "^4.6.6",
     "reflect-metadata": "^0.2.2"
   },
   "devDependencies": {

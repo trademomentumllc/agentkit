@@ -22,7 +22,7 @@
     "@solana/web3.js": "^1.98.0",
     "bs58": "^4.0.1",
     "dotenv": "^16.4.5",
-    "zod": "^3.22.4"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "nodemon": "^3.1.0",
